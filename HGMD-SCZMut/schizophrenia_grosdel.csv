@@ -1,0 +1,150 @@
+acc_num,gene,disease,descr,tag,author,journal,vol,page,year,pmid,comments
+CG1824550,ABCA13,Schizophrenia,"1,027,760 bp ",DM?,Khan,SR,epub,epub,2018,29486958,"chr7:47971562_48999322 (hg19)."
+CG1821441,ADK,"Schizophrenia, parkinsonism and epilepsy","390393 bp incl. ex. 4-9",DM?,Kimura,IJN,21,405,2018,29126171,"chr10:74292670_74623062 (hg38)"
+CG172827,ASTN2,Schizophrenia,"105,534 bp + TRIM32",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S9 for breakpoint and S13."
+CG172828,ASTN2,Schizophrenia,"182,855 bp + TRIM32",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S9 for breakpoint and S13."
+CG172829,ASTN2,Schizophrenia,"42,296 bp + TRIM32",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S9 for breakpoint and S13."
+CG088442,ASTN2,Schizophrenia,"98,469bp incl gene & 1 other",DM,Vrijenhoek,AJHG,83,504,2008,18940311,"chr9:118,409,012_118,507,481"
+CG1824552,AUTS2,Schizophrenia,"46,181 bp",DM?,Khan,SR,epub,epub,2018,29486958,"chr7:69421512_69467693 (hg19)."
+CG1824551,AUTS2,Schizophrenia,"83,734 bp",DM?,Khan,SR,epub,epub,2018,29486958,"chr7:69673805_69757539 (hg19)."
+CG1010290,B3GAT1,Schizophrenia,"988kb incl entire gene & 7 others",DM?,Magri,"PLOS ONE",5,e13422,2010,20967226,"chr11:133,461,668_134,449,982"
+CG172830,CACNA1C,Schizophrenia,"42,669 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG172831,CACNA1H,Schizophrenia,"60,126 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG061578,CACNG2,Schizophrenia,"incl. entire gene",DM,Wilson,HMG,15,743,2006,16434481,"on copy number anaysis / brain DNA"
+CG1810418,CADPS,Schizophrenia,"~84 kb incl. one exon",DM?,Vorstman,HMG,27,2755,2018,29767709,"Double hit. see Supplementary data."
+CG1720754,CAV1,Schizophrenia,"~690 kb incl. entire gene, CAV2 & MET",DM?,Piluso,WJBP,epub,epub,2017,29069978,"Array chr7:(115897566-115913229_116606853-116627718) [De novo]. "
+CG172832,CHRM3,Schizophrenia,"22,987 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG1111560,CHRNB3,"Schizophrenia and epilepsy","7817 bp incl. part gene",DM?,Stewart,"BMC MG",12,154,2011,22118685,"chr8:42582092-42589908. table 2."
+CG1825743,CNTN6,"Schizophrenia and epilepsy","0.2 Mb incl. ex.21-22 ",DM?,Juan-Perez,SR,202,111,2018,29983269,"Inherited maternally. Mother phenotypically normal."
+CG1720751,CNTNAP2,Schizophrenia,"~50 kb incl. intr. 12",DM?,Piluso,WJBP,epub,epub,2017,29069978,"Array chr7:(147521169-147539344_147589655-147600582) hg19. [De novo]. Variant of uncertain significance."
+CG077036,CNTNAP2,"Epilepsy and schizophrenia","1.5 Mb incl. entire gene+3 others",DM,Friedman,"MOL PSYCH",13,261,2008,17646849,NULL
+CG077037,CNTNAP2,"Epilepsy and schizophrenia","10.7 Mb incl. entire gene+57 others",DM,Friedman,"MOL PSYCH",13,261,2008,17646849,NULL
+CG1824555,CNTNAP2,Schizophrenia,"1210 bp ",DM?,Khan,SR,epub,epub,2018,29486958,"chr7:146358859_146360069 (hg19)."
+CG077038,CNTNAP2,"Epilepsy and schizophrenia","220 kb incl. intr. 3",DM,Friedman,"MOL PSYCH",13,261,2008,17646849,NULL
+CG1824556,CNTNAP2,Schizophrenia,"7281 bp ",DM?,Khan,SR,epub,epub,2018,29486958,"chr7:147478397_147485678 (hg19)."
+CG1824554,CNTNAP2,Schizophrenia,"8300 bp ",DM?,Khan,SR,epub,epub,2018,29486958,"chr7:145997390_146005695 (hg19)."
+CG1810459,CSMD1,Schizophrenia,"~36 kb intronic",DM?,Vorstman,HMG,27,2755,2018,29767709,"Double hit. see Supplementary data."
+CG172833,CSMD1,Schizophrenia,"104,353 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S9 for breakpoint and S13."
+CG1824560,CSMD1,Schizophrenia,"1297 bp",DM?,Khan,SR,epub,epub,2018,29486958,"chr8:3590734_3592031 (hg19)."
+CG1824561,CSMD1,Schizophrenia,"42415 bp",DM?,Khan,SR,epub,epub,2018,29486958,"chr8:3619046_3661461 (hg19)."
+CG1824559,CSMD1,Schizophrenia,"6520 bp",DM?,Khan,SR,epub,epub,2018,29486958,"chr8:3385624_3392144 (hg19)."
+CG172834,CSMD1,Schizophrenia,"74,604 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG172835,CSMD1,Schizophrenia,"82,557 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG1010289,CSMD3,Schizophrenia,"2566kb incl entire gene",DM?,Magri,"PLOS ONE",5,e13422,2010,20967226,"chr8:112,965,276_115,531,385"
+CG1810455,CTNNA3,Schizophrenia,"~37 kb intronic",DM?,Vorstman,HMG,27,2755,2018,29767709,"Double hit. see Supplementary data."
+CG1714654,CTNNA3,Schizophrenia,"89146 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"recurrent CNV. see Table S9 for breakpoint and S13."
+CG1010291,DLG1,Schizophrenia,"1653kb incl entire gene & 22 others",DM?,Magri,"PLOS ONE",5,e13422,2010,20967226,"chr3:197,185,549_198,838,373"
+CG1315063,DLG2,Schizophrenia,"145 kb in intr. 6",DM?,Nithianantharajah,"NAT NEURO",16,16,2013,23201973,"Chr11:84053507-84198828 (hg18). Descr. in Suppl. Fig. 4 (online)."
+CG172836,DLG2,Schizophrenia,"167,336 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG1213537,DLG2,Schizophrenia,"220 kb incl. intr. 6",DM?,Kirov,"MOL PSYCH",17,142,2012,22083728,"Chr11:84006106-84226064 (hg18). De novo."
+CG088611,DLG2,Schizophrenia,"263 kb incl. ex. 7",DM?,Walsh,SCIENCE,320,539,2008,18369103,"SNP array - Chr11:83680969-83943977 (hg18)."
+CG088610,DLG2,Schizophrenia,"269.2 kb incl. ex. 8",DM?,Xu,"NAT GENET",40,880,2008,18511947,"Start posn. given as Chr11:83623412 (hg18)."
+CG1213536,DLG2,Schizophrenia,"370 kb incl. ex. 8-10",DM?,Kirov,"MOL PSYCH",17,142,2012,22083728,"Chr11:83472750-83842973 (hg18). De novo."
+CG1111562,DLG2,"Schizophrenia and epilepsy","482969 bp incl. part gene",DM?,Stewart,"BMC MG",12,154,2011,22118685,"chr11:84188228-84671196. table 2."
+CG172837,DLG2,Schizophrenia,"530,274 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG1315064,DLG2,Schizophrenia,"672 kb in ex. 7-8",DM?,Nithianantharajah,"NAT NEURO",16,16,2013,23201973,"Chr11:83639281-84311495 (hg18). Descr. in Suppl. Fig. 4 (online)."
+CG172838,DLG2,Schizophrenia,"82,337 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S9 for breakpoint and S13."
+CG172839,DMD,Schizophrenia,"75,478 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG171062,DMRT1,Schizophrenia,"~127 kb",DM?,Perkins,"NAT GENET",49,27,2017,27869829,CNV.
+CG1811001,DNAH6,Schizophrenia,"~72 kb partial gene",DM?,Vorstman,HMG,27,2755,2018,29767709,"Double hit. see Supplementary data."
+CG172840,DPYD,Schizophrenia,"122,459 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG1010293,EDIL3,Schizophrenia,"1089kb incl entire gene",DM?,Magri,"PLOS ONE",5,e13422,2010,20967226,"chr5:83,318,004_84,407,494"
+CG143152,EPHA3,Schizophrenia,"25 kb incl. part of gene",DM?,Castellani,TRHG,17,108,2014,24556202,NULL
+CG087926,ERBB4,Schizophrenia,"399158 bp incl. ex. 20-27",DM?,Walsh,SCIENCE,320,539,2008,18369103,NULL
+CG1010292,FSTL5,Schizophrenia,"2302kb incl entire gene",DM?,Magri,"PLOS ONE",5,e13422,2010,20967226,"chr4:160,885,459_163,187,767"
+CG1810955,gcnt2c,Schizophrenia,"~62 kb partial gene",DM?,Vorstman,HMG,,,2018,29767709,"Double hit. see Supplementary data."
+CG134075,GPHN,Schizophrenia,"183kb incl ex. 3-8",DM,Lionel,HMG,22,2055,2013,23393157,"chr14:66,287,324_66,470,381 (hg18)"
+CG134074,GPHN,Schizophrenia,"338kb incl ex. 3-11",DM,Lionel,HMG,22,2055,2013,23393157,"chr14:66,267,488_66,605,185 (hg18)"
+CG143154,GPR139,Schizophrenia,"20 kb incl. entire gene",DM?,Castellani,TRHG,17,108,2014,24556202,"Patient also carries 7 kb del. of PYY (chr17:39423041-39430053)."
+CG172841,GRID2,Schizophrenia,"157,786 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG1111563,GRIP1,"Schizophrenia and epilepsy","150443 bp incl. part gene",DM?,Stewart,"BMC MG",12,154,2011,22118685,"chr12:67049795-67200237. table 2."
+CG1824563,HHAT,Schizophrenia,"11683 bp",DM?,Khan,SR,epub,epub,2018,29486958,"chr1:210631882_210643565 (hg19)."
+CG107846,HNF1B,"Autism and schizophrenia","1.4 Mb incl. entire gene + 14 others",DM,Moreno-De-Luca,AJHG,87,618,2010,21055719,NULL
+CG1824565,IMMP2L,Schizophrenia,"160,696 bp",DM?,Khan,SR,epub,epub,2018,29486958,"chr7:110871645_111032341 (hg19)."
+CG1824566,IMMP2L,Schizophrenia,"23,031 bp",DM?,Khan,SR,epub,epub,2018,29486958,"chr7:110969628_110992659 (hg19)."
+CG172842,KATNAL2,Schizophrenia,"26,593 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG143153,KIAA1211L,Schizophrenia,"21 kb incl. entire gene",DM?,Castellani,TRHG,17,108,2014,24556202,NULL
+CG1811004,LRGUK,Schizophrenia,"~104 kb partial gene",DM?,Vorstman,HMG,27,2755,2018,29767709,"Double hit. see Supplementary data."
+CG1810457,MACROD2,Schizophrenia,"~42 kb intronic",DM?,Vorstman,HMG,27,2755,2018,29767709,"Double hit. see Supplementary data."
+CG1810409,MACROD2,Schizophrenia,"~44 kb intronic",DM?,Vorstman,HMG,27,2755,2018,29767709,"Double hit. see Supplementary data."
+CG1210197,MAGI1,Schizophrenia,"~107 kb in IVS1",DM?,Karlsson,BP,71,922,2012,22381734,"chr3:65,613,912-65,720,475 (hg18)."
+CG1210200,MAGI1,Schizophrenia,"~193 kb",DM?,Karlsson,BP,71,922,2012,22381734,"chr3:65,781,878- 65,975,331 (hg18)."
+CG1210219,MAGI2,Schizophrenia,"~1.05 Mb",DM?,Karlsson,BP,71,922,2012,22381734,"chr3:78,228,236-79,277,363 (hg18)."
+CG1210218,MAGI2,Schizophrenia,"~803 kb",DM?,Karlsson,BP,71,922,2012,22381734,"chr3:77,788,565-78,591,796 (hg18)."
+CG139444,MAP3K3,Schizophrenia,"150 kb leading to MAP3K3/DDX42 chimera",DM?,Rippey,AJHG,93,697,2013,24094746,NULL
+CG172843,MBD5,Schizophrenia,"189,200 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG172844,MBD5,Schizophrenia,"353,539 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S9 for breakpoint and S13."
+CG172845,MBD5,Schizophrenia,"60,866 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG172846,MBD5,Schizophrenia,"99,047 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG1810413,MSR1,Schizophrenia,"~72 kb multiple exons",DM?,Vorstman,HMG,27,2755,2018,29767709,"Double hit. see Supplementary data."
+CG142767,NCKIPSD,Schizophrenia,"21 bp del TTCCATCTTCCCAGATCCCAC",DM?,Fromer,NATURE,506,179,2014,24463507,NULL
+CG172847,NPAS3,Schizophrenia,"55,101 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG1824571,NRG1,Schizophrenia,"8005 bp",DM?,Khan,SR,epub,epub,2018,29486958,"chr8:32393743_32401748 (hg19)."
+CG171057,NRXN1,Schizophrenia,"~1.1 mb",DM,Perkins,"NAT GENET",49,27,2017,27869829,CNV.
+CG102916,NRXN1,Schizophrenia,"~168 kb in intron 5",DM?,Ikeda,BP,67,283,2010,19880096,NULL
+CG136860,NRXN1,Schizophrenia,"~404 kb partial gene",DM,"Van Den Bossche",AJMGBNG,162B,273,2013,23505263,"minimally deleted region. Patient also has MYT1L and SNTG2 duplications."
+CG082389,NRXN1,Schizophrenia,"0.25 Mb incl. promoter + ex. 1",DM,Kirov,HMG,17,458,2008,17989066,NULL
+CG087928,NRXN1,Schizophrenia,"115 kb",DM?,Walsh,SCIENCE,320,539,2008,18369103,NULL
+CG0911373,NRXN1,"Schizophrenia, childhood onset","115 kb ex. 22-23",DM,Addington,CPR,11,156,2009,19302770,NULL
+CG172848,NRXN1,Schizophrenia,"217,526 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG088445,NRXN1,Schizophrenia,"230 kb incl. part of gene",DM,Vrijenhoek,AJHG,83,504,2008,18940311,NULL
+CG088441,NRXN1,Schizophrenia,"236,847 bp",DM,Vrijenhoek,AJHG,83,504,2008,18940311,"chr2:51,063,670_51,300,517"
+CG144929,NRXN1,Schizophrenia,"25 kb",DM?,Todarello,SR,155,1,2014,24680031,"Identified in patient and unaffected mother and sibling."
+CG088444,NRXN1,Schizophrenia,"25 kb incl. part of gene",DM,Vrijenhoek,AJHG,83,504,2008,18940311,NULL
+CG1010288,NRXN1,Schizophrenia,"328 kb incl promoter & ex. 1-3",DM,Magri,"PLOS ONE",5,e13422,2010,20967226,"chr2:50,952,424_51,280,162"
+CG1513490,NRXN1,Schizophrenia,"38kb, 39kb upstream of gene",DM,Duong,EJMG,58,650,2015,26563496,NULL
+CG1513491,NRXN1,Schizophrenia,"40kb, 328kb upstream of gene",DM,Duong,EJMG,58,650,2015,26563496,NULL
+CG1111559,NRXN1,Schizophrenia,"428671 bp incl. part gene",DM,Stewart,"BMC MG",12,154,2011,22118685,chr2:50579352-51008022
+CG144931,NRXN1,Schizophrenia,"54 kb",DM?,Todarello,SR,155,1,2014,24680031,NULL
+CG144930,NRXN1,Schizophrenia,"65 kb",DM?,Todarello,SR,155,1,2014,24680031,"Identified in patient and unaffected father in one family, and patient and unaffected mother in another."
+CG088446,NRXN1,Schizophrenia,"65 kb incl. part of gene",DM,Vrijenhoek,AJHG,83,504,2008,18940311,NULL
+CG144927,nrxn1b,Schizophrenia,"137 kb incl. entire gene",DM?,Todarello,SR,155,1,2014,24680031,NULL
+CG144928,nrxn1b,Schizophrenia,"161 kb incl. entire gene",DM?,Todarello,SR,155,1,2014,24680031,NULL
+CG144926,nrxn1b,Schizophrenia,"282 kb incl. entire gene",DM?,Todarello,SR,155,1,2014,24680031,NULL
+CG172849,NRXN3,Schizophrenia,"306,190 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG194261,PCDH19,"Seizures & schizophrenia","ex. 6",DM,Vlaskamp,EPILEPSIA,60,429,2019,30828795,
+CG1810423,PDE8B,Schizophrenia,"~29 kb multiple exons",DM?,Vorstman,HMG,27,2755,2018,29767709,"Double hit. see Supplementary data."
+CG1210606,PLCB1,Schizophrenia,"entire gene",DM?,"Lo Vasco",JCMM,16,844,2012,22507702,NULL
+CG1810998,PRKN,Schizophrenia,"~274 kb partial gene",DM?,Vorstman,HMG,27,2755,2018,29767709,"Double hit. see Supplementary data."
+CG1810416,PRKN,Schizophrenia,"~62 kb intronic",DM?,Vorstman,HMG,27,2755,2018,29767709,"Double hit. see Supplementary data."
+CG172850,PRKN,Schizophrenia,"119,515 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S9 for breakpoint and S13."
+CG172851,PRKN,Schizophrenia,"119,839 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S9 for breakpoint and S13."
+CG172852,PRKN,Schizophrenia,"123,152 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S9 for breakpoint and S13."
+CG172853,PRKN,Schizophrenia,"158,261 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG172854,PRKN,Schizophrenia,"161,574 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG172855,PRKN,Schizophrenia,"164,131 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG172856,PRKN,Schizophrenia,"200,091 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG172857,PRKN,Schizophrenia,"210,117 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG172858,PRKN,Schizophrenia,"262,801 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG172859,PRKN,Schizophrenia,"265,290 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG172860,PRKN,Schizophrenia,"31,673 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG172861,PRKN,Schizophrenia,"315,860 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG172862,PRKN,Schizophrenia,"322,656 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S9 for breakpoint and S13."
+CG172863,PRKN,Schizophrenia,"79,002 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG024997,PRODH,"Increased proline level in schizophrenia","350 kb incl. entire gene",DM,Jacquet,HMG,11,2243,2002,12217952,NULL
+CG1810992,PTPRD,Schizophrenia,"~103 kb partial gene",DM?,Vorstman,HMG,27,2755,2018,29767709,"Double hit. see Supplementary data."
+CG172864,PTPRM,Schizophrenia,"470,669 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG143151,PYY,Schizophrenia,"7 kb incl. entire gene",DM?,Castellani,TRHG,17,108,2014,24556202,NULL
+CG172865,RBFOX1,Schizophrenia,"387,373 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S9 for breakpoint and S13."
+CG172866,RBFOX1,Schizophrenia,"59,180 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG172867,RBFOX1,Schizophrenia,"78,196 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG172868,RELN,Schizophrenia,"12.6 kb incl. ex. 52-58",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"Descr. as chr7:102919640-102930809 (hg19), del11170bp in Table S13."
+CG1824575,SHANK3,Schizophrenia,"4193 bp",DM?,Khan,SR,epub,epub,2018,29486958,"chr22:51136406_51140599 (hg19)."
+CG087927,SLC12A3,Schizophrenia,"502683 bp incl. ex. 1-3 and ex. 3-10 of SKP2",DM?,Walsh,SCIENCE,320,539,2008,18369103,"Results in chimeric SKP2-SLC1A3 gene (ex. 1-2 joined to ex. 4-10)."
+CG1111561,SLC1A1,"Schizophrenia and epilepsy","134869 bp incl. part gene",DM?,Stewart,"BMC MG",12,154,2011,22118685,"chr9:4409405-4544273. table 2."
+CG134258,SLC1A1,"Schizophrenia and bipolar schizoaffective disorder","84,298bp incl promoter & part of ex. 1",DM,Myles-Worsley,AJMGBNG,162B,87,2013,23341099,"chr9:4,406,529_4,490,826"
+CG1810988,SLFN13,Schizophrenia,"~84 kb partial gene",DM?,Vorstman,HMG,27,2755,2018,29767709,"Double hit. see Supplementary data."
+CG1824577,ST6GAL2,Schizophrenia,"2416 bp ",DM?,Khan,SR,epub,epub,2018,29486958,"chr2:107418324_107420740 (hg19)."
+CG1713842,STS,"Ichthyosis with schizophrenia","1.68 Mb incl. entire gene + 4 others",DM,Malik,JMCR,11,267,2017,28934990,"aCGH - chrX:6456036-8139238del (hg19)."
+CG172869,TMLHE,Schizophrenia,"22,222 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S9 for breakpoint and S13."
+CG172870,TMLHE,Schizophrenia,"305,124 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG1824581,TOP3B,Schizophrenia,"267,000 bp ",DM?,Khan,SR,epub,epub,2018,29486958,"chr22:22312001_22579000 (hg19)."
+CG1810426,TRPV1,Schizophrenia,"~50 kb 5-prime exons",DM?,Vorstman,HMG,27,2755,2018,29767709,"Double hit. see Supplementary data."
+CG149655,ULK4,Schizophrenia,"~456 kb incl. ex. 21-34",DM?,Lang,JCS,127,630,2014,24284070,"Descr. in Table S1 (online)."
+CG149656,ULK4,Schizophrenia,"~467.5 kb incl. ex. 21-34",DM?,Lang,JCS,127,630,2014,24284070,"Descr. in Table S1 (online)."
+CG172871,ULK4,Schizophrenia,"186,129 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG172872,ULK4,Schizophrenia,"87,373 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG1811002,USH2A,Schizophrenia,"~182 kb partial gene",DM?,Vorstman,HMG,27,2755,2018,29767709,"Double hit. see Supplementary data."
+CG171064,VPS13B,Schizophrenia,"~864 kb",DM?,Perkins,"NAT GENET",49,27,2017,27869829,CNV.
+CG172873,VPS13B,Schizophrenia,"167,995 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
+CG172874,ZNF804A,Schizophrenia,"41,504 bp",DM,Kushima,"MOL PSYCH",22,430,2017,27240532,"see Table S13."
