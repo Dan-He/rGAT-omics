@@ -144,7 +144,7 @@ extract_evi <- function(gene){
 }
 
 rGAT_omics <- function(args) {
-  load("GO_PPI_HIPP2.RData")
+  load("GO_BioGrid_HIPP.RData")
   nodes <- colnames(Net)
   gene <- extract_candidates(args)
   gene <- gene[(!is.na(gene$official_name)),]
