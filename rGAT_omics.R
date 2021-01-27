@@ -1,7 +1,7 @@
 extract_candidates <- function(args){
   gwas_file<-args[1]; flanking<-as.numeric(args[2])
 
-  gwas<-read.delim(gwas_file,as.is=T) # as.is抑制字符向量转换成因子
+  gwas<-read.delim(gwas_file,as.is=T)
   if( all(is.element(c("SNP","Chr","Pos_hg19"),colnames(gwas))) )                ### check column names
     gwas<-gwas[,c("SNP","Chr","Pos_hg19")]  else stop("Wrong column names!\n")
   if(substr(gwas$Chr[1],1,3)!="chr")  gwas$Chr<-paste("chr",gwas$Chr,sep="")     ### add prefix "chr" in column "Chr"
