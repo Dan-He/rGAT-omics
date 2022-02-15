@@ -180,9 +180,9 @@ rGAT_omics <- function(args) {
     b <- boxcox(y~1)
     lambda <- b$x[which.max(b$y)]
     if(lambda!=0){
-        data_h[,j] <- y^lambda
+        data_h[,i] <- y^lambda
       }else{
-        data_h[,j] <- log(y)
+        data_h[,i] <- log(y)
       }
   }
   data_h <- scale(data_h)
